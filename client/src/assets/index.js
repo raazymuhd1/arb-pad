@@ -1,0 +1,1 @@
+export { default as heroIcon } from "./hero/hero-icon.png"
