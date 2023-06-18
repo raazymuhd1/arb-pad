@@ -66,3 +66,10 @@ body {
       right: 80px;
     }
 }
+
+
+.launch {
+   background-image: url("./assets/launch/mount.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
